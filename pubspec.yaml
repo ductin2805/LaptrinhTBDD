@@ -51,7 +51,12 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
+  assets:
+    - assets/jetpack_compose.png
+    - assets/logo.png
+    - assets/time_management.png
+    - assets/work_effectiveness.png
+    - assets/reminder_notification.png
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
@@ -87,3 +92,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
